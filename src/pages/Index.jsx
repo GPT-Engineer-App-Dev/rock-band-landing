@@ -13,6 +13,8 @@ const Index = () => {
         <HStack spacing={4}>
           <Button colorScheme="teal" size="lg">Buy Tickets</Button>
           <Button colorScheme="teal" variant="outline" size="lg">Tour Dates</Button>
+          <Button colorScheme="teal" variant="outline" size="lg">Merchandise</Button>
+          <Button colorScheme="teal" variant="outline" size="lg">Contact Us</Button>
         </HStack>
         <HStack spacing={4}>
           <IconButton aria-label="Facebook" icon={<FaFacebook />} size="lg" />
